@@ -34,6 +34,9 @@ https://www.mozilla.org/MPL/2.0/
 
 - **Mozilla Rhino 1.7.15** (JavaScript engine for Bokumi extensions), used unmodified. The source code is available at https://github.com/mozilla/rhino/tree/Rhino1_7_15_Release.
 
+## Artwork in the screenshots
+The library covers in the app screenshots are public-domain or openly licensed works from Wikimedia Commons: Katsushika Hokusai (Hokusai Manga), Rakuten Kitazawa (Tagosaku to Mokube no Tokyo Kenbutsu), and vintage US comic-book covers whose copyright was not renewed. *Pepper & Carrot* (book three cover) is by David Revoy, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Per-cover sources: https://github.com/devCaspian-hash/Bokumi-App/blob/main/COVER-CREDITS.md
+
 ---
 
 The full text of each license is available at the links above and in the source distributions of each project.
