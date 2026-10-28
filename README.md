@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/devCaspian-hash/Bokumi-App/releases/latest"><img src=".github/readme/cta-android.svg" height="66" alt="Download Bokumi for Android"></a>
+  <a href="https://github.com/devCaspian-hash/Bokumi-App/releases"><img src=".github/readme/cta-android.svg" height="66" alt="Download Bokumi for Android"></a>
   &nbsp;&nbsp;
   <a href="#-iphone--ipad"><img src=".github/readme/cta-ios.svg" height="66" alt="Bokumi for iPhone and iPad: coming soon"></a>
 </p>
@@ -55,7 +55,7 @@
 
 ### Android
 
-1. Download **`Bokumi-…-android.apk`** from the [latest release](https://github.com/devCaspian-hash/Bokumi-App/releases/latest).
+1. Download **`Bokumi-…-android.apk`** from the [Releases page](https://github.com/devCaspian-hash/Bokumi-App/releases).
 2. Open it and allow installs from your browser or file manager (Android 11 or newer).
 3. In Bokumi go to **Browse → ⋯ → Extension repositories**, paste a repository link you trust, then pick extensions under **Extensions**.
 
