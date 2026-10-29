@@ -8,7 +8,7 @@
   <a href="#-iphone--ipad"><img src=".github/readme/cta-ios.svg" height="66" alt="Bokumi for iPhone and iPad: coming soon"></a>
 </p>
 
-<p align="center"><sub>Free · no ads · no tracking · developer preview</sub></p>
+<p align="center"><sub>Free to use · paid upgrade planned · no ads · no tracking · developer preview</sub></p>
 
 <br>
 
@@ -19,7 +19,7 @@
 <p align="center"><i>One library on every device, with each chapter right where you left it.</i></p>
 
 <p align="center">
-  <img src=".github/readme/marquee.svg" width="100%" alt="Right-to-left manga · webtoon strip · Mihon and Tachiyomi extensions · offline downloads · iPhone and Android sync · ten palettes · trackers · websites inside Bokumi · no ads · no tracking · free">
+  <img src=".github/readme/marquee.svg" width="100%" alt="Right-to-left manga · webtoon strip · Mihon and Tachiyomi extensions · offline downloads · iPhone and Android sync · ten palettes · trackers · websites inside Bokumi · no ads · no tracking">
 </p>
 
 <br>
@@ -74,7 +74,7 @@ Coming to TestFlight. Mihon/Tachiyomi APK extensions are Android code, so iPhone
 
 ## ✦ FAQ
 
-<details><summary><b>Is Bokumi free?</b></summary><br>Yes. There are no ads, no subscriptions and no paywalled features.</details>
+<details><summary><b>Is Bokumi free?</b></summary><br>Bokumi is free to use and has no ads. A paid upgrade is planned for later.</details>
 
 <details><summary><b>Does Bokumi come with manga?</b></summary><br>No. Bokumi is a reader. You add sources you are allowed to use: extensions from repositories you choose, websites you add, your own Komga or Kavita server, or your own CBZ/ZIP/EPUB files.</details>
 
