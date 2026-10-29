@@ -37,6 +37,9 @@ https://www.mozilla.org/MPL/2.0/
 ## Artwork in the screenshots
 The library covers in the app screenshots are public-domain or openly licensed works from Wikimedia Commons: Katsushika Hokusai (Hokusai Manga), Rakuten Kitazawa (Tagosaku to Mokube no Tokyo Kenbutsu), and vintage US comic-book covers whose copyright was not renewed. *Pepper & Carrot* (book three cover) is by David Revoy, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Per-cover sources: https://github.com/devCaspian-hash/Bokumi-App/blob/main/COVER-CREDITS.md
 
+## Fonts in this page's artwork
+The images in `.github/readme/` use subsets of **Inter** (Copyright The Inter Project Authors), **Playfair Display** (Copyright The Playfair Project Authors) and **Noto Sans JP** (Copyright Google LLC), all under the [SIL Open Font License 1.1](https://openfontlicense.org).
+
 ---
 
 The full text of each license is available at the links above and in the source distributions of each project.
