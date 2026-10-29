@@ -24,25 +24,25 @@
 
 <br>
 
-<img src=".github/readme/ch1-library.webp" width="100%" alt="Chapter 01 · The Library. Your shelf, beautifully kept.">
+<img src=".github/readme/ch1-library.svg" width="100%" alt="Chapter 01 · The Library. Your shelf, beautifully kept.">
 
-<br><br>
+<img src=".github/readme/divider.svg" width="100%" alt="">
 
-<img src=".github/readme/ch2-reader.webp" width="100%" alt="Chapter 02 · The Reader. Right-to-left, webtoon, double page and zoom.">
+<img src=".github/readme/ch2-reader.svg" width="100%" alt="Chapter 02 · The Reader. Right-to-left, webtoon, double page and zoom.">
 
-<br><br>
+<img src=".github/readme/divider.svg" width="100%" alt="">
 
-<img src=".github/readme/ch3-sources.webp" width="100%" alt="Chapter 03 · Sources. Bring the Mihon and Tachiyomi extensions you already use, or read any website inside Bokumi.">
+<img src=".github/readme/ch3-sources.svg" width="100%" alt="Chapter 03 · Sources. Bring the Mihon and Tachiyomi extensions you already use, or read any website inside Bokumi.">
 
-<br><br>
+<img src=".github/readme/divider.svg" width="100%" alt="">
 
-<img src=".github/readme/ch4-anywhere.webp" width="100%" alt="Chapter 04 · Anywhere. Offline downloads, and sync between your devices with your library grouped by website.">
+<img src=".github/readme/ch4-anywhere.svg" width="100%" alt="Chapter 04 · Anywhere. Offline downloads, and sync between your devices with your library grouped by website.">
 
-<br><br>
+<img src=".github/readme/divider.svg" width="100%" alt="">
 
-<img src=".github/readme/ch5-track.webp" width="100%" alt="Chapter 05 · Tracking. AniList, MyAnimeList, MangaUpdates, Kitsu, Shikimori and Bangumi.">
+<img src=".github/readme/ch5-track.svg" width="100%" alt="Chapter 05 · Tracking. AniList, MyAnimeList, MangaUpdates, Kitsu, Shikimori and Bangumi.">
 
-<br><br>
+<img src=".github/readme/divider.svg" width="100%" alt="">
 
 <img src=".github/readme/ch6-themes.webp" width="100%" alt="Chapter 06 · Make it yours. Ten palettes that color every screen, with an intensity slider and pure black for OLED.">
 
