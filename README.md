@@ -19,7 +19,11 @@
 <p align="center"><i>One library on every device, with each chapter right where you left it.</i></p>
 
 <p align="center">
-  <img src=".github/readme/marquee.svg" width="100%" alt="Right-to-left manga · webtoon strip · Mihon and Tachiyomi extensions · offline downloads · iPhone and Android sync · ten palettes · trackers · websites inside Bokumi · no ads · no tracking">
+  <img src=".github/readme/new-redesign.webp" width="100%" alt="New in Bokumi · Every screen, redesigned. Real icons for every source, one search across all of them, a calmer series page and Sign in with Apple. Shown on iPhone: Browse, a series page and the theme picker.">
+</p>
+
+<p align="center">
+  <img src=".github/readme/marquee.svg" width="100%" alt="Right-to-left manga · webtoon strip · Mihon and Tachiyomi extensions · offline downloads · iPhone and Android sync · 42 themes · haptics · Sign in with Apple · trackers · websites inside Bokumi · no ads · no tracking">
 </p>
 
 <br>
@@ -44,7 +48,7 @@
 
 <img src=".github/readme/divider.svg" width="100%" alt="">
 
-<img src=".github/readme/ch6-themes.webp" width="100%" alt="Chapter 06 · Make it yours. Ten palettes that color every screen, with an intensity slider and pure black for OLED.">
+<img src=".github/readme/new-themes.webp" width="100%" alt="Chapter 06 · Make it yours. 42 themes, two colors each: ten classic palettes, 32 two-color themes with Bokumi Plus, tinted text, pure black and tunable haptics.">
 
 <br>
 
@@ -53,12 +57,13 @@
 | | |
 |:--|:--|
 | 📖 **右 → 左 by default** | Manga read right-to-left, comics left-to-right, manhwa as one seamless webtoon strip. Bokumi remembers the mode for every series. |
-| 🧩 **Your extensions** | Add the Mihon/Tachiyomi repositories you already trust and pick what to install. Nothing installs on its own. |
+| 🧩 **Your extensions** | Add the Mihon/Tachiyomi repositories you already trust and pick what to install, on Android and iPhone. Every source shows its own icon, and one search covers them all. Nothing installs on its own. |
 | 🌐 **Websites inside Bokumi** | Add any site you read and open it in Bokumi. On a series or chapter, tap **Read in Bokumi** to get the library, progress and reader. |
 | 🚃 **Offline for the commute** | Download chapters ahead and read with no signal. Only complete, verified chapters show as downloaded. |
-| 🔁 **Pick up anywhere** | Phone, tablet, iPhone or Android: your library, progress and history follow you with optional sync, and you can see exactly what is synced for each website. |
+| 🔁 **Pick up anywhere** | Phone, tablet, iPhone or Android: your library, progress, reading statuses and settings follow you with optional sync. Sign in with Apple in one tap. |
 | 📦 **Bring your library** | Import a Mihon/Tachiyomi backup and keep your progress, categories and tracking. |
-| 🌙 **Easy on the eyes** | Ten palettes that color the whole app, from a subtle tint to vivid. Pure black for OLED, and Liquid Glass on iOS 26. |
+| 🌙 **Easy on the eyes** | 42 themes that color the whole app, text included, from a subtle tint to vivid. Pure black for OLED, Liquid Glass on iOS 26, and haptics you can tune. |
+| ✨ **Bokumi Plus** *(planned)* | 32 two-color themes and Cloudflare checks that pass in the background. Everything else stays free. |
 
 ## ✦ Get Bokumi
 
@@ -70,11 +75,11 @@
 
 ### iPhone & iPad
 
-Coming to TestFlight. Mihon/Tachiyomi APK extensions are Android code, so iPhone and iPad can't run them. Instead, add any website under **Browse → ⋯ → Add website** and read it inside Bokumi, or install Bokumi extensions from a repository you add.
+Coming to TestFlight. Mihon/Tachiyomi extensions run inside Bokumi on iPhone through an on-device engine (working in the simulator today; device builds are next). Add them the same way: **Browse → ⋯ → Extension repositories**, paste a repository you trust, then tap **Get** under **Extensions**.
 
 ## ✦ FAQ
 
-<details><summary><b>Is Bokumi free?</b></summary><br>Bokumi is free to use and has no ads. A paid upgrade is planned for later.</details>
+<details><summary><b>Is Bokumi free?</b></summary><br>Bokumi is free to use and has no ads. A paid upgrade, Bokumi Plus, is planned for later: extra two-color themes and automatic Cloudflare checks.</details>
 
 <details><summary><b>Does Bokumi come with manga?</b></summary><br>No. Bokumi is a reader. You add sources you are allowed to use: extensions from repositories you choose, websites you add, your own Komga or Kavita server, or your own CBZ/ZIP/EPUB files.</details>
 
