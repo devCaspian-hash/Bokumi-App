@@ -1,6 +1,6 @@
 # Third-party notices
 
-The Bokumi Android app includes the open-source components below. Each one remains under its own license.
+The Bokumi Android app (in development, not released yet) includes the open-source components below. Each one remains under its own license.
 
 ## Apache License 2.0
 https://www.apache.org/licenses/LICENSE-2.0
