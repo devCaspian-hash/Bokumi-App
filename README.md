@@ -1,98 +1,110 @@
 <p align="center">
-  <img src=".github/readme/hero.svg" width="100%" alt="Bokumi ボクミ · Your stories, your way. A native manga reader for iPhone, iPad and Android.">
+  <img src=".github/readme/hero.webp" width="100%" alt="Bokumi ボクミ · Read it the way it was drawn. A cozy manga reader for iPhone and iPad: page-curl turns, right-to-left done properly, 42 themes and a library that follows you from device to device.">
 </p>
 
 <p align="center">
-  <a href="https://github.com/devCaspian-hash/Bokumi-App/releases"><img src=".github/readme/cta-android.svg" height="66" alt="Download Bokumi for Android"></a>
-  &nbsp;&nbsp;
-  <a href="#-iphone--ipad"><img src=".github/readme/cta-ios.svg" height="66" alt="Bokumi for iPhone and iPad: coming soon"></a>
+  <img src=".github/readme/btn-appstore.png" height="58" alt="Coming soon to the App Store (iPhone, iPad, Mac)">
+  &nbsp;
+  <a href="https://github.com/devCaspian-hash/Bokumi-App/releases/latest"><img src=".github/readme/btn-android.png" height="58" alt="Android developer preview: download the APK"></a>
 </p>
 
-<p align="center"><sub>Free to use · paid upgrade planned · no ads · no tracking · developer preview</sub></p>
+<p align="center"><sub><b>In beta on TestFlight</b> · iOS 18 or later · reading is free · no ads · no analytics · no account</sub></p>
+
+<p align="center"><img src=".github/readme/ticker.webp" width="100%" alt="Page-curl turns · Right to left · Webtoon · 42 themes · Widgets · iCloud sync · iPad & Mac"></p>
+
+<h3 align="center">A manga reader that treats the page like paper.</h3>
+
+<p align="center">Bokumi (ボクミ) is a cozy, premium reader for iPhone, iPad and Mac.<br>Pages curl when you turn them, manga reads from the right, webtoons scroll without a seam,<br>and your shelf, progress and settings follow you everywhere through your own iCloud.</p>
 
 <br>
 
-<p align="center">
-  <img src=".github/readme/showcase.webp" width="100%" alt="Bokumi on iPhone and Android: library, series, reader, browse, extensions and tracking">
-</p>
+<img src=".github/readme/reader.webp" width="100%" alt="The reader · Pages that turn like paper. Right to left, left to right, vertical, webtoon and continuous. On iPad and in landscape, the whole open spread.">
 
-<p align="center"><i>One library on every device, with each chapter right where you left it.</i></p>
+<br><br>
 
-<p align="center">
-  <img src=".github/readme/new-redesign.webp" width="100%" alt="New in Bokumi · Every screen, redesigned. Real icons for every source, one search across all of them, a calmer series page and Sign in with Apple. Shown on iPhone: Browse, a series page and the theme picker.">
-</p>
+<img src=".github/readme/panels.webp" width="100%" alt="Everything in its place · A reader that stays out of the way. Library, a calmer series page, reader settings per series, and a history that remembers the exact page.">
 
-<p align="center">
-  <img src=".github/readme/marquee.svg" width="100%" alt="Right-to-left manga · webtoon strip · Mihon and Tachiyomi extensions · offline downloads · iPhone and Android sync · 42 themes · haptics · Sign in with Apple · trackers · websites inside Bokumi · no ads · no tracking">
-</p>
+<br><br>
 
-<br>
+<img src=".github/readme/themes.webp" width="100%" alt="Make it yours · 42 themes, two are free. Six collections: Free, Classic, Soft, Duotone, Night, Ink & Paper.">
 
-<img src=".github/readme/ch1-library.svg" width="100%" alt="Chapter 01 · The Library. Your shelf, beautifully kept.">
+<br><br>
 
-<img src=".github/readme/divider.svg" width="100%" alt="">
+<img src=".github/readme/icons.webp" width="100%" alt="Eleven app icons, from cozy cats to ink and seals. The reading cat is free; ten more with Plus, each with Liquid Glass, dark and tinted looks.">
 
-<img src=".github/readme/ch2-reader.svg" width="100%" alt="Chapter 02 · The Reader. Right-to-left, webtoon, double page and zoom.">
+<br><br>
 
-<img src=".github/readme/divider.svg" width="100%" alt="">
+<img src=".github/readme/bento.webp" width="100%" alt="Made with care, panel by panel · Home Screen widgets, iCloud sync with no account, iPad and Mac spreads, tracking, offline downloads, Reading Insights and 13 languages.">
 
-<img src=".github/readme/ch3-sources.svg" width="100%" alt="Chapter 03 · Sources. Bring the Mihon and Tachiyomi extensions you already use, or read any website inside Bokumi.">
+<br><br>
 
-<img src=".github/readme/divider.svg" width="100%" alt="">
+<img src=".github/readme/plus.webp" width="100%" alt="Bokumi Plus · Reading is free, the rest is Plus. Monthly $0.99, yearly $10, lifetime $20 (beta price).">
 
-<img src=".github/readme/ch4-anywhere.svg" width="100%" alt="Chapter 04 · Anywhere. Offline downloads, and sync between your devices with your library grouped by website.">
+<br><br>
 
-<img src=".github/readme/divider.svg" width="100%" alt="">
-
-<img src=".github/readme/ch5-track.svg" width="100%" alt="Chapter 05 · Tracking. AniList, MyAnimeList, MangaUpdates, Kitsu, Shikimori and Bangumi.">
-
-<img src=".github/readme/divider.svg" width="100%" alt="">
-
-<img src=".github/readme/new-themes.webp" width="100%" alt="Chapter 06 · Make it yours. 42 themes, two colors each: ten classic palettes, 32 two-color themes with Bokumi Plus, tinted text, pure black and tunable haptics.">
+<img src=".github/readme/privacy.webp" width="100%" alt="Privacy · No ads. No analytics. No account. Your library lives on your device; sync goes through your own private iCloud.">
 
 <br>
 
-## ✦ Made for manga readers
+## ✦ Why readers pick Bokumi
 
 | | |
 |:--|:--|
-| 📖 **右 → 左 by default** | Manga read right-to-left, comics left-to-right, manhwa as one seamless webtoon strip. Bokumi remembers the mode for every series. |
-| 🧩 **Your extensions** | Add the Mihon/Tachiyomi repositories you already trust and pick what to install, on Android and iPhone. Every source shows its own icon, and one search covers them all. Nothing installs on its own. |
-| 🌐 **Websites inside Bokumi** | Add any site you read and open it in Bokumi. On a series or chapter, tap **Read in Bokumi** to get the library, progress and reader. |
-| 🚃 **Offline for the commute** | Download chapters ahead and read with no signal. Only complete, verified chapters show as downloaded. |
-| 🔁 **Pick up anywhere** | Phone, tablet, iPhone or Android: your library, progress, reading statuses and settings follow you with optional sync. Sign in with Apple in one tap. |
-| 📦 **Bring your library** | Import a Mihon/Tachiyomi backup and keep your progress, categories and tracking. |
-| 🌙 **Easy on the eyes** | 42 themes that color the whole app, text included, from a subtle tint to vivid. Pure black for OLED, Liquid Glass on iOS 26, and haptics you can tune. |
-| ✨ **Bokumi Plus** *(planned)* | 32 two-color themes and Cloudflare checks that pass in the background. Everything else stays free. |
-
-## ✦ Get Bokumi
-
-### Android
-
-1. Download **`Bokumi-…-android.apk`** from the [Releases page](https://github.com/devCaspian-hash/Bokumi-App/releases).
-2. Open it and allow installs from your browser or file manager (Android 11 or newer).
-3. In Bokumi go to **Browse → ⋯ → Extension repositories**, paste a repository link you trust, then pick extensions under **Extensions**.
-
-### iPhone & iPad
-
-Coming to TestFlight. Mihon/Tachiyomi extensions run inside Bokumi on iPhone through an on-device engine (working in the simulator today; device builds are next). Add them the same way: **Browse → ⋯ → Extension repositories**, paste a repository you trust, then tap **Get** under **Extensions**.
-
-## ✦ FAQ
-
-<details><summary><b>Is Bokumi free?</b></summary><br>Bokumi is free to use and has no ads. A paid upgrade, Bokumi Plus, is planned for later: extra two-color themes and automatic Cloudflare checks.</details>
-
-<details><summary><b>Does Bokumi come with manga?</b></summary><br>No. Bokumi is a reader. You add sources you are allowed to use: extensions from repositories you choose, websites you add, your own Komga or Kavita server, or your own CBZ/ZIP/EPUB files.</details>
-
-<details><summary><b>Can I move over from Mihon or Tachiyomi?</b></summary><br>Yes. Import your <code>.tachibk</code> backup under More → Backup &amp; Restore. On Android your Mihon extensions run inside Bokumi.</details>
-
-<details><summary><b>What does Bokumi know about me?</b></summary><br>Nothing leaves your device unless you turn something on: sync with a server you choose, or a tracker login. There is no analytics. See <a href="PRIVACY.md">PRIVACY.md</a>.</details>
-
-<details><summary><b>Are extensions safe?</b></summary><br>Bokumi checks that every APK extension is signed by the repository's key and asks you to trust that repository. Like in Mihon, APK extensions run with the app's permissions, so only install extensions you trust.</details>
-
-<details><summary><b>Why "developer preview"?</b></summary><br>Bokumi is new. It is built and tested automatically, but it has not been tested on many physical devices yet. Expect rough edges, and back up your library (More → Backup &amp; Restore) before updating.</details>
+| 📖 **右 → 左, properly** | Manga opens from the right, comics from the left, long strips as one seamless webtoon. Bokumi remembers the mode for every series. |
+| 🍃 **Page curl** | Swipe and the page lifts, curls and settles. On iPad and Mac you get the open spread, spine and all. |
+| 🐈‍⬛ **Cozy, not cluttered** | Covers first, a calm poster-style series page, and a Continue button that opens the book straight away. |
+| 🎨 **42 themes, 11 icons** | Six collections that tint the whole app, tinted text, pure black for OLED, Liquid Glass on iOS 26. |
+| 🧩 **Your sources** | Add the extension repositories you already trust, including Mihon/Tachiyomi ones, which run on the iPhone itself. Bokumi ships with none. |
+| ☁️ **Everywhere** | iCloud sync with no sign-in, Home Screen widgets, offline downloads, AniList / MyAnimeList / MangaUpdates / Kitsu / Shikimori / Bangumi. |
+| 🔒 **Yours** | No ads, no analytics, no account. App lock, an incognito switch, and tracker tokens kept in the Keychain. |
 
 <br>
 
-<p align="center"><img src=".github/readme/footer.svg" width="100%" alt="Bokumi ボクミ · もっと、好きな物語を。"></p>
+<p align="center">
+  <img src=".github/readme/launch.gif" width="230" alt="Bokumi's launch animation: the cat turns a page of its manga">
+  <br><sub><i>The launch animation: the cat turns the page the manga way.</i></sub>
+</p>
 
-<p align="center"><sub>Bokumi ships no manga and no sources. Add only content you are allowed to read. Open-source components: <a href="THIRD-PARTY-NOTICES.md">THIRD-PARTY-NOTICES.md</a>. Bokumi is not affiliated with Mihon, Tachiyomi, Suwayomi or any tracking service.</sub></p>
+<br>
+
+## ✦ Get Bokumi
+
+| | |
+|:--|:--|
+| **iPhone · iPad · Mac** | In beta on **TestFlight** now; the App Store release is next. iOS 18 or later, Macs with Apple silicon through "Designed for iPad". |
+| **Android** | An early developer preview: download **`Bokumi-…-android.apk`** from **[Releases](https://github.com/devCaspian-hash/Bokumi-App/releases/latest)** (Android 11 or newer) and allow installs from your browser or file manager. The Android app is behind the iPhone app. |
+| **Your sources** | Browse → ⋯ → **Extension repositories** → paste the link to a repository you trust, then pick what to install under **Extensions**. |
+| **Bokumi Plus** | $0.99 / month, $10 / year or $20 lifetime (beta price). Reading stays free. |
+
+## ✦ FAQ
+
+<details><summary><b>Is Bokumi free?</b></summary><br>Reading is free, with no ads: browsing and installing sources, your library, history and updates, every reading mode, light and dark mode and app lock. Bokumi Plus unlocks the rest: the other themes and app icons, widgets, offline downloads, iCloud sync, trackers, automatic backups, extra reader options and Cloudflare checks that pass in the background. If Plus lapses, nothing is deleted.</details>
+
+<details><summary><b>Does Bokumi come with manga?</b></summary><br>No. Bokumi is a reader. You add sources you are allowed to use: extensions from repositories you choose, your own Komga or Kavita server, or your own CBZ/ZIP/EPUB files.</details>
+
+<details><summary><b>Can I move over from Mihon or Tachiyomi?</b></summary><br>Yes. Import your <code>.tachibk</code> backup under More → Backup &amp; Restore, and add the same extension repositories. Mihon/Tachiyomi extensions run inside Bokumi, on Android and on the iPhone itself.</details>
+
+<details><summary><b>What does Bokumi know about me?</b></summary><br>Nothing leaves your device unless you turn something on: iCloud sync goes to your own private iCloud, and a tracker only hears from Bokumi after you log in to it. There is no analytics and no account. See <a href="PRIVACY.md">PRIVACY.md</a>.</details>
+
+<details><summary><b>Are extensions safe?</b></summary><br>Bokumi checks that every APK extension is signed by the repository's key and asks you to trust that repository. Like in Mihon, extensions run with the app's permissions, so only install extensions you trust.</details>
+
+<details><summary><b>How do I join the beta?</b></summary><br>The iPhone and iPad app is in beta on TestFlight; the App Store release is next. On Android, the developer preview APK is on the <a href="https://github.com/devCaspian-hash/Bokumi-App/releases/latest">Releases page</a>. Back up your library (More → Backup &amp; Restore) before updating a beta.</details>
+
+<details>
+<summary><b>✦ Brand</b></summary>
+<br>
+
+Cream paper, warm brown-black ink, a vermilion hanko and the indigo of the cat's book. Display type is Young Serif, UI type Zen Maru Gothic, Japanese in Shippori Mincho.
+
+| Paper | Ink | Vermilion | Indigo | Lamp |
+|:---:|:---:|:---:|:---:|:---:|
+| `#F6EBD5` | `#2B211B` | `#C9452E` | `#25376F` | `#F6D79B` |
+
+The app's default theme accent is lavender `#D4A6FA`.
+</details>
+
+<br>
+
+<p align="center"><img src=".github/readme/footer.webp" width="100%" alt="Bokumi ボクミ · Ready when you are. A cozy reader for iPhone and iPad. Free to read, with Plus when you want the rest."></p>
+
+<p align="center"><sub>Bokumi ships no manga and no sources. Add only content you are allowed to read. The README art uses real iPhone and iPad screenshots with public-domain and CC BY covers (<a href="COVER-CREDITS.md">credits</a>). Open-source components: <a href="THIRD-PARTY-NOTICES.md">THIRD-PARTY-NOTICES.md</a>. Bokumi is not affiliated with Mihon, Tachiyomi, Suwayomi or any tracking service.</sub></p>
